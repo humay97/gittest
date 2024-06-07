@@ -1,0 +1,47 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+
+}
+h1{
+    color:orange;
+    margin: 150px 300px 100px 540px;
+
+    
+}
+div{
+    background-color:skyblue;
+    margin:100px 100px 100px 100px;
+    
+}
+.first{
+    margin:60px 450px 5px 450px;
+    color: white;
+}
+.second{
+    margin:0 450px 5px 450px ;
+    color: white;
+}
+.third{
+    margin:0 450px 5px 450px ;
+    color: white;
+}
+.input1{
+    margin:0 450px 15px 450px;
+    border-radius: 80px;
+}
+.input2{
+    margin:0 450px 15px 450px;
+    border-radius: 80px;
+}
+.input3{
+    margin:0 450px 15px 450px;
+    border-radius: 80px;
+}
+button{
+    background-color:orange;
+    margin:12px 450px 15px 450px;
+    border-radius: 80px;
+    color:white
+}
